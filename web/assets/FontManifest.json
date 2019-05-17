@@ -1,0 +1,26 @@
+[
+    {
+        "family": "Roboto",
+        "fonts": [
+            {
+                "asset": "fonts/Roboto-Black.ttf"
+                
+                
+            },
+            {
+                "asset": "fonts/Roboto-Bold.ttf",
+                "weight": "700"
+            }
+           
+        ]
+    },
+    {
+        "family": "Montserrat",
+        "fonts":[
+            {
+                "asset": "fonts/Montserrat-Black.ttf"
+            }
+        ]
+    }
+]
+   
